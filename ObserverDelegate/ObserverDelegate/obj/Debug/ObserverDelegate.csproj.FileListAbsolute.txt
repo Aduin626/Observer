@@ -1,0 +1,11 @@
+C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverDelegate\ObserverDelegate\bin\Debug\ObserverDelegate.exe.config
+C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverDelegate\ObserverDelegate\bin\Debug\ObserverDelegate.exe
+C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverDelegate\ObserverDelegate\bin\Debug\ObserverDelegate.pdb
+C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverDelegate\ObserverDelegate\obj\Debug\ObserverDelegate.csproj.AssemblyReference.cache
+C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverDelegate\ObserverDelegate\obj\Debug\ObserverDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverDelegate\ObserverDelegate\obj\Debug\ObserverDelegate.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverDelegate\ObserverDelegate\obj\Debug\ObserverDelegate.exe
+C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverDelegate\ObserverDelegate\obj\Debug\ObserverDelegate.pdb
+C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverDelegate\ObserverDelegate\bin\Debug\ObserverLib.dll
+C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverDelegate\ObserverDelegate\bin\Debug\ObserverLib.pdb
+C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverDelegate\ObserverDelegate\obj\Debug\ObserverDelegate.csproj.CopyComplete
