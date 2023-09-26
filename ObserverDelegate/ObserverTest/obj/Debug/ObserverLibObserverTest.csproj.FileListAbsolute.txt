@@ -1,0 +1,11 @@
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverLibObserverTest\bin\Debug\ObserverLibObserverTest.dll
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverLibObserverTest\bin\Debug\ObserverLibObserverTest.pdb
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverLibObserverTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverLibObserverTest\bin\Debug\ObserverLib.dll
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverLibObserverTest\bin\Debug\ObserverLib.pdb
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverLibObserverTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverLibObserverTest\obj\Debug\ObserverLibObserverTest.csproj.AssemblyReference.cache
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverLibObserverTest\obj\Debug\ObserverLibObserverTest.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverLibObserverTest\obj\Debug\ObserverLibObserverTest.csproj.CopyComplete
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverLibObserverTest\obj\Debug\ObserverLibObserverTest.dll
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverLibObserverTest\obj\Debug\ObserverLibObserverTest.pdb

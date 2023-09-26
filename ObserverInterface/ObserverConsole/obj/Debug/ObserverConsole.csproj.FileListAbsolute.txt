@@ -9,3 +9,13 @@ C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverInterface\Obser
 C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverInterface\ObserverConsole\obj\Debug\ObserverConsole.csproj.CopyComplete
 C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverInterface\ObserverConsole\obj\Debug\ObserverConsole.exe
 C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverInterface\ObserverConsole\obj\Debug\ObserverConsole.pdb
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverInterface\ObserverConsole\bin\Debug\ObserverConsole.exe.config
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverInterface\ObserverConsole\bin\Debug\ObserverConsole.exe
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverInterface\ObserverConsole\bin\Debug\ObserverConsole.pdb
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverInterface\ObserverConsole\bin\Debug\ObserverLib.dll
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverInterface\ObserverConsole\bin\Debug\ObserverLib.pdb
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverInterface\ObserverConsole\obj\Debug\ObserverConsole.csproj.AssemblyReference.cache
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverInterface\ObserverConsole\obj\Debug\ObserverConsole.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverInterface\ObserverConsole\obj\Debug\ObserverConsole.csproj.CopyComplete
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverInterface\ObserverConsole\obj\Debug\ObserverConsole.exe
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverInterface\ObserverConsole\obj\Debug\ObserverConsole.pdb

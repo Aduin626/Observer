@@ -9,3 +9,14 @@ C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverDelegate\Observ
 C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverDelegate\ObserverDelegate\bin\Debug\ObserverLib.dll
 C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverDelegate\ObserverDelegate\bin\Debug\ObserverLib.pdb
 C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverDelegate\ObserverDelegate\obj\Debug\ObserverDelegate.csproj.CopyComplete
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverDelegate\bin\Debug\ObserverDelegate.exe.config
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverDelegate\bin\Debug\ObserverDelegate.exe
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverDelegate\bin\Debug\ObserverDelegate.pdb
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverDelegate\bin\Debug\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverDelegate\bin\Debug\ObserverLib.dll
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverDelegate\bin\Debug\ObserverLib.pdb
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverDelegate\obj\Debug\ObserverDelegate.csproj.AssemblyReference.cache
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverDelegate\obj\Debug\ObserverDelegate.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverDelegate\obj\Debug\ObserverDelegate.csproj.CopyComplete
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverDelegate\obj\Debug\ObserverDelegate.exe
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverDelegate\ObserverDelegate\obj\Debug\ObserverDelegate.pdb

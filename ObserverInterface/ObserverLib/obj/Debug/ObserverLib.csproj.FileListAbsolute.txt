@@ -4,3 +4,9 @@ C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverInterface\Obser
 C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverInterface\ObserverLib\obj\Debug\ObserverLib.csproj.CoreCompileInputs.cache
 C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverInterface\ObserverLib\obj\Debug\ObserverLib.dll
 C:\Users\ACER\OneDrive\Рабочий стол\ProjectVS\ObserverInterface\ObserverLib\obj\Debug\ObserverLib.pdb
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverInterface\ObserverLib\bin\Debug\ObserverLib.dll
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverInterface\ObserverLib\bin\Debug\ObserverLib.pdb
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverInterface\ObserverLib\obj\Debug\ObserverLib.csproj.AssemblyReference.cache
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverInterface\ObserverLib\obj\Debug\ObserverLib.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverInterface\ObserverLib\obj\Debug\ObserverLib.dll
+C:\Users\ACER\Рабочий стол\ProjectVS\Patterns\ObserverInterface\ObserverLib\obj\Debug\ObserverLib.pdb

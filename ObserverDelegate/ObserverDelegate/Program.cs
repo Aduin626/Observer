@@ -7,7 +7,8 @@ namespace ObserverDelegate
     internal class Program
     {
         static void Main(string[] args)
-        {
+        
+       {
             //Метод который выводит информацию о том что цена акций изменилась
             void OnPriceChanged(double price , string symbol)
             {
@@ -21,7 +22,7 @@ namespace ObserverDelegate
             stock.PriceChanged += new Action<double,string>(OnPriceChanged);
 
             stock.Price = 107.0;
-          
+            
             Console.ReadLine();
         }
     }

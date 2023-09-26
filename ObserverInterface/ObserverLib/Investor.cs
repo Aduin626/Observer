@@ -17,6 +17,7 @@ namespace ObserverLib
             this.name = name;
         }
 
+      
 
         public void Update(double price, string burse)
         {
